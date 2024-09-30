@@ -1,8 +1,10 @@
 # US-Visa-Prediction
 
 
-- Download the Following Softwares
-1. Anaconda
-2. VS Code
-3. Git
+Download or Use the Following Tools
+1. Anaconda - Environment
+2. VS Code - IDE
+3. Git - Code Version Control
+4. Whimsical - Flowchart
+5. Evidently - MLOps Tool
 
