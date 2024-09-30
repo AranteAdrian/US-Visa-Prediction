@@ -16,7 +16,7 @@ Relation to requirements.txt:
     allowing for easy development and testing of the project.
 """
 
-setup(
+setup (
     name='us_visa',
     version='0.0.0',
     email='aranteadriandominique3@gmail.com',
