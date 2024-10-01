@@ -40,6 +40,7 @@ list_of_files = [
     f"{project_name}/prediction/training_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "notebook/"
     "app.py",
     "requirements.txt",
     "Dockerfile",
